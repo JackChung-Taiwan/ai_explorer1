@@ -1,3 +1,22 @@
+匯入URL,完成匯入
+
+麥塊AI世界冒險王擴充程式(5種)
+https://makecode.com/_R9CJ2e4T2LA7
+
+空中守護者
+https://makecode.com/_2HV1v6HwD3AE
+
+太空像素圖
+https://makecode.com/_cbuThK0szJ59
+
+運輸工程基地
+https://makecode.com/_gh4dMk4gthXb
+
+時空迷宮建造器
+https://makecode.com/_0fC5yrJtxUym
+
+古文明建築工坊
+https://makecode.com/_V794sHKctJmu
 
 > 在 [https://jackchung-taiwan.github.io/ai_explorer1/](https://jackchung-taiwan.github.io/ai_explorer1/) 打開此頁面
 
