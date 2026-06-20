@@ -1,0 +1,33 @@
+{
+    "name": "麥塊AI世界冒險王擴充程式(5種)",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "空中守護者": "pub:06212-05154-43068-08645",
+        "太空像素圖": "pub:82674-61325-02339-43533",
+        "時空迷宮建造器": "pub:01727-16163-45653-64831",
+        "古文明建築工坊": "pub:65269-13119-47573-45338",
+        "運輸工程基地": "pub:93760-84850-12629-96021"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable2.1",
+        "tag": "v2.1.27",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/7fc0cdc33ac7dc923732abe36c6c74b22b8c5dc0",
+        "target": "2.1.27",
+        "pxt": "12.1.17",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
